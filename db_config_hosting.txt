@@ -1,0 +1,3 @@
+db_name : spkpipsm_spkkmeans
+db_user : spkpipsm_spkkmeans
+db_pwd : {b=8T[VyN7el
